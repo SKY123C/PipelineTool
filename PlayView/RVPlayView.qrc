@@ -1,0 +1,26 @@
+<RCC>
+  <qresource>
+    <file>resources/refresh_no_16.png</file>
+    <file>resources/filter_16.png</file>
+    <file>resources/rocket.png</file>
+    <file>resources/update_back.png</file>
+    <file>resources/wait.gif</file>
+    <file>resources/arrow_left.png</file>
+    <file>resources/arrow_right.png</file>
+    <file>resources/arrow_down.png</file>
+    <file>resources/arrow_up.png</file>
+    <file>resources/version_16.png</file>
+    <file>resources/cloud_16.png</file>
+    <file>resources/play_16.png</file>
+    <file>resources/play_32.png</file>
+    <file>resources/refresh_16.png</file>
+    <file>resources/save_32.png</file>
+    <file>resources/search_16.png</file>
+    <file>resources/status_16.png</file>
+    <file>resources/time_16.png</file>
+    <file>resources/unsave_16.png</file>
+    <file>resources/unsave_24.png</file>
+    <file>resources/video_16.png</file>
+    <file>resources/unsave_32.png</file>
+  </qresource>
+</RCC>

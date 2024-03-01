@@ -1,0 +1,21 @@
+package: RV TeamWork Note
+author: Chent Tao
+organization: AZure
+contact: 289079202@qq.com
+version: 1.0
+requires: ''
+rv: 6.2.4
+optional: true
+
+modes: 
+  - file: RVNote.py
+    menu: 'CGTeamWork/Note'
+    shortcut: ''
+    event: ''
+    load: delay
+
+description: |
+    <p>
+    TeamWork Note.
+    </p>
+

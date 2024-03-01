@@ -1,0 +1,32 @@
+QListView {
+	border: 15px solid white; 
+	border-radius: 10px;
+}
+QListView::item {
+    height: 30px;
+}
+QListView::item:hover {
+	background-color: transparent;
+	padding: 10px;
+	border-left: 3px solid rgb(130, 130, 130);
+}
+QListView::item:selected {
+	background-color: transparent;
+	color: rgb(153, 204, 238);
+	padding: 10px;
+	border-left: 3px solid black;
+}
+QPushButton{
+    background-color:rgb(255, 255, 255);
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+QPushButton:hover{
+    color: rgb(25, 118, 210);
+}
+QPushButton:pressed {
+    background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                      stop:0 rgb(25, 118, 210);, stop:1 darkgray);
+    border-style: inset;
+}

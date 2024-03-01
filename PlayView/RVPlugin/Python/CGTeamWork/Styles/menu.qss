@@ -1,0 +1,13 @@
+QMenu {
+    background-color : rgb(253,253,254);
+    padding:5px;
+    border:10px;
+    border-radius:15px;
+}
+QMenu::item {
+    color: rgb(0,0,0);
+}
+
+QMenu::item:selected { /* when user selects item using mouse or keyboard */
+    background-color: rgb(232, 232, 233);
+}

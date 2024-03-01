@@ -1,0 +1,20 @@
+package: RV TeamWork MaskInfo
+author: Chent Tao
+organization:
+contact: 
+version: 1.0
+url:
+rv: 4.0.9
+requires: ''
+optional: true
+
+modes: 
+  - file: twmask.py
+    menu: 'CGTeamWork/display info'
+    shortcut: ''
+    event: ''
+    load: immediate
+
+description: |
+
+  <p>diplayinfo package</p>
